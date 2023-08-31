@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> portfolio</title>
+<style>
+body {
+  background-color: #1B2430;
+  font-family: Comic Sans MS;
+  color: #AAC8A7;
+}
+</style>
+
+</head>
+<body>
+<div class="nav-container">
+<ul> 
+<li> <a href="#"> HOME</a> </li>
+<li> <a href="#"> ABOUT</a></li>
+<li> <a href="#"> GALLERY</a></li>
+<li> <a href="#"> CONTACT</a></li>
+</ul>
+</body>
+</html>
